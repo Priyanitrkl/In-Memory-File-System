@@ -1,3 +1,2 @@
-download the pdf
-below is the code link
+Code link
 https://replit.com/@PriyankaMahara1/Project-Inito 
